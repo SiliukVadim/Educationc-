@@ -1,0 +1,15 @@
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\LessonArray2\bin\Debug\net7.0\LessonArray2.exe
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\LessonArray2\bin\Debug\net7.0\LessonArray2.deps.json
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\LessonArray2\bin\Debug\net7.0\LessonArray2.runtimeconfig.json
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\LessonArray2\bin\Debug\net7.0\LessonArray2.dll
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\LessonArray2\bin\Debug\net7.0\LessonArray2.pdb
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\LessonArray2\obj\Debug\net7.0\LessonArray2.csproj.AssemblyReference.cache
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\LessonArray2\obj\Debug\net7.0\LessonArray2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\LessonArray2\obj\Debug\net7.0\LessonArray2.AssemblyInfoInputs.cache
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\LessonArray2\obj\Debug\net7.0\LessonArray2.AssemblyInfo.cs
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\LessonArray2\obj\Debug\net7.0\LessonArray2.csproj.CoreCompileInputs.cache
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\LessonArray2\obj\Debug\net7.0\LessonArray2.dll
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\LessonArray2\obj\Debug\net7.0\refint\LessonArray2.dll
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\LessonArray2\obj\Debug\net7.0\LessonArray2.pdb
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\LessonArray2\obj\Debug\net7.0\LessonArray2.genruntimeconfig.cache
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\LessonArray2\obj\Debug\net7.0\ref\LessonArray2.dll
