@@ -1,0 +1,15 @@
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\lesson19022023_1\bin\Debug\net7.0\lesson19022023_1.exe
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\lesson19022023_1\bin\Debug\net7.0\lesson19022023_1.deps.json
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\lesson19022023_1\bin\Debug\net7.0\lesson19022023_1.runtimeconfig.json
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\lesson19022023_1\bin\Debug\net7.0\lesson19022023_1.dll
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\lesson19022023_1\bin\Debug\net7.0\lesson19022023_1.pdb
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\lesson19022023_1\obj\Debug\net7.0\lesson19022023_1.csproj.AssemblyReference.cache
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\lesson19022023_1\obj\Debug\net7.0\lesson19022023_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\lesson19022023_1\obj\Debug\net7.0\lesson19022023_1.AssemblyInfoInputs.cache
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\lesson19022023_1\obj\Debug\net7.0\lesson19022023_1.AssemblyInfo.cs
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\lesson19022023_1\obj\Debug\net7.0\lesson19022023_1.csproj.CoreCompileInputs.cache
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\lesson19022023_1\obj\Debug\net7.0\lesson19022023_1.dll
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\lesson19022023_1\obj\Debug\net7.0\refint\lesson19022023_1.dll
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\lesson19022023_1\obj\Debug\net7.0\lesson19022023_1.pdb
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\lesson19022023_1\obj\Debug\net7.0\lesson19022023_1.genruntimeconfig.cache
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\lesson\lesson19022023_1\obj\Debug\net7.0\ref\lesson19022023_1.dll

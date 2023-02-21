@@ -1,0 +1,15 @@
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\homeworks4\bin\Debug\net7.0\homeworks4.exe
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\homeworks4\bin\Debug\net7.0\homeworks4.deps.json
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\homeworks4\bin\Debug\net7.0\homeworks4.runtimeconfig.json
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\homeworks4\bin\Debug\net7.0\homeworks4.dll
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\homeworks4\bin\Debug\net7.0\homeworks4.pdb
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\homeworks4\obj\Debug\net7.0\homeworks4.csproj.AssemblyReference.cache
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\homeworks4\obj\Debug\net7.0\homeworks4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\homeworks4\obj\Debug\net7.0\homeworks4.AssemblyInfoInputs.cache
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\homeworks4\obj\Debug\net7.0\homeworks4.AssemblyInfo.cs
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\homeworks4\obj\Debug\net7.0\homeworks4.csproj.CoreCompileInputs.cache
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\homeworks4\obj\Debug\net7.0\homeworks4.dll
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\homeworks4\obj\Debug\net7.0\refint\homeworks4.dll
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\homeworks4\obj\Debug\net7.0\homeworks4.pdb
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\homeworks4\obj\Debug\net7.0\homeworks4.genruntimeconfig.cache
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\homeworks4\obj\Debug\net7.0\ref\homeworks4.dll
