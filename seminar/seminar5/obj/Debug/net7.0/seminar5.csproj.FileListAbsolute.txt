@@ -1,0 +1,15 @@
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar5\bin\Debug\net7.0\seminar5.exe
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar5\bin\Debug\net7.0\seminar5.deps.json
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar5\bin\Debug\net7.0\seminar5.runtimeconfig.json
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar5\bin\Debug\net7.0\seminar5.dll
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar5\bin\Debug\net7.0\seminar5.pdb
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar5\obj\Debug\net7.0\seminar5.csproj.AssemblyReference.cache
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar5\obj\Debug\net7.0\seminar5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar5\obj\Debug\net7.0\seminar5.AssemblyInfoInputs.cache
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar5\obj\Debug\net7.0\seminar5.AssemblyInfo.cs
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar5\obj\Debug\net7.0\seminar5.csproj.CoreCompileInputs.cache
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar5\obj\Debug\net7.0\seminar5.dll
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar5\obj\Debug\net7.0\refint\seminar5.dll
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar5\obj\Debug\net7.0\seminar5.pdb
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar5\obj\Debug\net7.0\seminar5.genruntimeconfig.cache
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar5\obj\Debug\net7.0\ref\seminar5.dll
