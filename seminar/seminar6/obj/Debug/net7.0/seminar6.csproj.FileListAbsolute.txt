@@ -1,0 +1,15 @@
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar6\obj\Debug\net7.0\seminar6.csproj.AssemblyReference.cache
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar6\obj\Debug\net7.0\seminar6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar6\obj\Debug\net7.0\seminar6.AssemblyInfoInputs.cache
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar6\obj\Debug\net7.0\seminar6.AssemblyInfo.cs
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar6\obj\Debug\net7.0\seminar6.csproj.CoreCompileInputs.cache
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar6\bin\Debug\net7.0\seminar6.exe
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar6\bin\Debug\net7.0\seminar6.deps.json
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar6\bin\Debug\net7.0\seminar6.runtimeconfig.json
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar6\bin\Debug\net7.0\seminar6.dll
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar6\bin\Debug\net7.0\seminar6.pdb
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar6\obj\Debug\net7.0\seminar6.dll
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar6\obj\Debug\net7.0\refint\seminar6.dll
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar6\obj\Debug\net7.0\seminar6.pdb
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar6\obj\Debug\net7.0\seminar6.genruntimeconfig.cache
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\seminar\seminar6\obj\Debug\net7.0\ref\seminar6.dll
